@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Education Quiz</string>
+    <string name="pertanyaan1">1. Siapa Penemu Bola Lampu?</string>
+    <string name="pertanyaan2">2. Yang Termasuk Satelit yang Digunakan untuk Pengamatan Cuaca adalah (Pilih 3)</string>
+    <string name="pertanyaan3">3. Cabang Geografi yang Mempelajari Bentuk-Bentuk Muka Bumi disebut?</string>
+    <string name="pertanyaan4">4. Siapakah Tokoh Pengarang Novel Harry Poter pada Gambar tersebut?</string>
+    <string name="pertanyaan5">5. Dalam perundingan Renville, KTN (Komisi Tiga Negara) menyampaikan usul berikut (Pilih 2)</string>
+</resources>
